@@ -1,0 +1,12 @@
+[package]
+name = "edukar"
+version = "0.1.0"
+entrypoint = "src/edukar.typ"
+authors = ["Enzo Falcon"]
+license = "MIT"
+description = "Template for Edukar exams and exams solutionaries"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
