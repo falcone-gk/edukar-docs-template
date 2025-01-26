@@ -1,8 +1,11 @@
 [package]
-name = "edukar"
+name = "edukar-docs"
 version = "0.1.0"
 entrypoint = "src/edukar.typ"
 authors = ["Enzo Falcon"]
+repository = "https://github.com/falcone-gk/edukar-docs-template"
+keywords = ["non-fiction", "basic"]
+categories = ["paper", "report"]
 license = "MIT"
 description = "Template for Edukar exams and exams solutionaries"
 
